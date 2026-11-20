@@ -16,4 +16,4 @@ title: abbaslv
 
 # Donate
 
-Send USDT TRC20 to this address: `x`
+Open @send in telegram via this link: `t.me/send?start=IVcvXaEsr6TW`
