@@ -1,4 +1,10 @@
 theme: jekyll-theme-minimal
-title: abbaslv — programmer
-description: Personal portfolio and open-source projects by abbaslv. Systems programming, automation tools, and developer utilities.
+title: abbaslv
+description: 15 y.o Coder/Researcher
 show_downloads: false
+logo: https://github.com/abbaslv.png?size=200
+nav_links:
+  - title: GitHub
+    url: https://github.com/abbaslv
+  - title: Donate
+    url: /donate/
