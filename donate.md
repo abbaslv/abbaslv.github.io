@@ -1,6 +1,7 @@
 ---
 layout: default
 title: abbaslv
+permalink: /donate/
 ---
 
 
