@@ -11,7 +11,7 @@ title: abbaslv
 | [mrestore ↗](https://github.com/abbaslv/mrestore) | Apple Silicon / Linux | Simplified restore and recovery utility for Apple Silicon Macs on Linux. |
 | [Apple Music Library Fetcher ↗](https://github.com/abbaslv/apple-music-library-fetcher) | Python / API | Fast tool to fetch and export full Apple Music library metadata. |
 | [ipswtool ↗](https://github.com/abbaslv/ipswtool) | CLI / Firmware | Rapidly download IPSW firmware, iTunes versions, and OTA builds. |
-| [xtrace ↗](https://github.com/abbaslv/MSActo) | Rust / Crypto | Tool for tracing crypto transactions in more than 10 networks. |
+| [xtrcm ↗](https://github.com/abbaslv/xtrcm) | Rust / Crypto | Tool for tracing crypto transactions in more than 10 networks. |
 | [sfyri ↗](https://github.com/abbaslv/sfyri) | Systems / USB | Simple, fast, and lightweight bootable USB creation tool. |
 | [planiuer ↗](https://github.com/abbaslv/planiuer) | AI Agent / Skill | Autonomous planning and task decomposition skill for AI coding agents. |
 
